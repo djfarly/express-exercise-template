@@ -1,6 +1,6 @@
 # 🤡 Express Jokes Exercise Template
 
-Click on "Use this template", clone the repo locally and solve the exersises in `routes/jokes.js`.
+Click on "Use this template", clone the repo locally and solve the exercises in `routes/jokes.js`.
 
 Remember to run `npm i`.
 
